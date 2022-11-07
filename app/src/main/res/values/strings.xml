@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AnimalApp</string>
+    <string name="title">Android Training</string>
 </resources>
